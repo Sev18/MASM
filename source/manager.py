@@ -19,7 +19,7 @@ import _winreg
 #aglo: 'Cryptonight', 'Ethash', 'Equihash', 'Groestl', 'Lyra2RE2', 'Myriad-Groestl', 'NeoScrypt', 'Skein'
 targetalgo = []
 algominer = {'Cryptonight':'ccminer-x64.exe', 'Ethash':'EthDcrMiner64.exe', 'Equihash':'miner.exe', 'Groestl':'ccminer-x64.exe', 'Lyra2RE2':'ccminer-x64.exe', 'Myriad-Groestl':'ccminer-x64.exe', 'NeoScrypt':'ccminer-x64.exe', 'Skein':'ccminer-x64.exe'}
-url = "https://miningpoolhub.com/?page=home&normalize=none"
+url = "https://masmanager.info/"
 url_price = "https://blockchain.info/tobtc?currency=USD&value=1"
 #Hashrate(GTX1060*4way)
 # 'Cryptonight':2094, 'Ethash':96500000, 'Equihash':1210, 'Groestl':91600000, 'Lyra2RE2':89500000, 'Myriad-Groestl':169100000, 'NeoScrypt':2478000, 'Skein':856500000
